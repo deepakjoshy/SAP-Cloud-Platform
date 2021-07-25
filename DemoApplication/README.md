@@ -1,1 +1,1 @@
-SAP Cloud Platform Sample Spring Boot Java Application
+SAP Cloud Platform Demo Spring Boot Java Application
